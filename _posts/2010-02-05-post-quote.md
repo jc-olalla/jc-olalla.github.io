@@ -1,5 +1,5 @@
 ---
-title: "Post: Quote"
+title: "Post: Blogs (spatial) data science"
 categories:
   - Blog
 tags:

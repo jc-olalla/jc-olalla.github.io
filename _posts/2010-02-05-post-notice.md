@@ -1,11 +1,13 @@
 ---
-title: "Post: Notice"
+title: "Post: Predictive modeling"
 categories:
   - Blog
 tags:
   - Post Formats
   - notice
 ---
+
+Here, I showcase a few applications of predictive modeling that I have worked on. These models are of two kind, physics-based and statistical based. Most physics-based models that I have written, simulate the physical response of geophysical exploration devices. The statistical models that I have developed are part of my journey to becoming a data scientist.
 
 A notice displays information that explains nearby content. Often used to call attention to a particular detail.
 
